@@ -1,0 +1,6 @@
+login admin: syahrulfathoni516@gmail.com,pass : 5@p#tr4{321}B@y#
+login user: user@gmail.com, pass : user123
+
+url: kategori(/categories)
+     barang(/materials)
+     users(/users)
